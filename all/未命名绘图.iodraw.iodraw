@@ -50,10 +50,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FOTvefoHQnfiaXml_tS5-7" value="后端服务层&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;API接口&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="80" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FOTvefoHQnfiaXml_tS5-9" value="前端展示层Web&lt;br&gt;地图与可视化图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="-60" width="145" height="80" as="geometry" />
+          <mxGeometry x="442.5" y="-60" width="145" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
