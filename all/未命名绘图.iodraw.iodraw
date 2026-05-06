@@ -52,7 +52,7 @@
         <mxCell id="FOTvefoHQnfiaXml_tS5-7" value="后端服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FOTvefoHQnfiaXml_tS5-9" value="前端展示层Web&lt;br&gt;地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FOTvefoHQnfiaXml_tS5-9" value="前端展示层Web&lt;br&gt;地图与可视化图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
