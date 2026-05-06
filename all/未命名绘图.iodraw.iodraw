@@ -44,7 +44,7 @@
         <mxCell id="FOTvefoHQnfiaXml_tS5-3" value="气象数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="30" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOTvefoHQnfiaXml_tS5-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FOTvefoHQnfiaXml_tS5-7" value="后端服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
