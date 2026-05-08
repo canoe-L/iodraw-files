@@ -19,8 +19,13 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-15" value="UART（TX/RX）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="499" y="153" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-16" target="kNZ81V4yeqCJZzCy2Igm-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="238" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="434" y="219" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-16" value="温湿度AHT10&lt;div&gt;光照AP3216c&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="189" width="120" height="60" as="geometry" />
