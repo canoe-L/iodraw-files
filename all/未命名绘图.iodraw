@@ -31,8 +31,8 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-7" value="id&lt;div&gt;station_id&lt;/div&gt;&lt;div&gt;temperature&lt;/div&gt;&lt;div&gt;humidity&lt;/div&gt;&lt;div&gt;light&lt;/div&gt;&lt;div&gt;rainfall&lt;/div&gt;&lt;div&gt;wind_speed&lt;/div&gt;&lt;div&gt;recorded_at&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kNZ81V4yeqCJZzCy2Igm-6">
           <mxGeometry x="58.5" y="36.5" width="83" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="258" width="40" height="26" as="geometry" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-10" value="1:N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="521" y="262" width="37" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
