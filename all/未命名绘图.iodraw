@@ -73,8 +73,8 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="SCL-PB6（I2C）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="258" width="111" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-33" value="SDA-PB7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="284" width="69" height="26" as="geometry" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-33" value="SDA-PB7（I2C）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="284" width="112" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
