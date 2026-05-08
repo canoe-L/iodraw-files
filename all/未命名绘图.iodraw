@@ -31,7 +31,7 @@
           <mxGeometry x="239" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-18" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="196" y="242" width="54" height="26" as="geometry" />
+          <mxGeometry x="182" y="206" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-19" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="372" y="189" width="42" height="26" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-29" value="GND-GND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="573" y="295" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="218" y="253" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
