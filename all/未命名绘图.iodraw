@@ -28,13 +28,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-16" value="温湿度AHT10&lt;div&gt;光照AP3216c&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="239" y="189" width="120" height="60" as="geometry" />
+          <mxGeometry x="196" y="189" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-18" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="182" y="206" width="54" height="26" as="geometry" />
+          <mxGeometry x="202" y="155" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-19" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="372" y="189" width="42" height="26" as="geometry" />
+          <mxGeometry x="351" y="192" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-20">
           <mxGeometry relative="1" as="geometry">
@@ -71,7 +71,7 @@
           <mxGeometry x="196" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="SCL-PB6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="356" y="258" width="68" height="26" as="geometry" />
+          <mxGeometry x="321" y="258" width="68" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-33" value="SDA-PB7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="355.5" y="284" width="69" height="26" as="geometry" />
