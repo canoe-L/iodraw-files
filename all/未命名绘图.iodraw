@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-11" value="主控芯片&lt;div&gt;STM32&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="195" width="127" height="127" as="geometry" />
+          <mxGeometry x="434" y="195" width="154" height="154" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-12" target="kNZ81V4yeqCJZzCy2Igm-11">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-20" value="风速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="663" y="174" width="113" height="63" as="geometry" />
+          <mxGeometry x="680" y="195" width="113" height="63" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-22" value="GND-GND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="573" y="199" width="75" height="26" as="geometry" />
