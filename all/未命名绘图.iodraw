@@ -31,11 +31,16 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-19" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="378" y="225" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554.6191057477679" y="226.49999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-20" value="风速" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="663" y="195" width="113" height="63" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-22" value="GND-GND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="568" y="222" width="75" height="26" as="geometry" />
+          <mxGeometry x="573" y="199" width="75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-23" value="信号-PC2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="571" y="259" width="69" height="26" as="geometry" />
