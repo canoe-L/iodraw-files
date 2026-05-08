@@ -47,8 +47,8 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-22" value="GND-GND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="585" y="225" width="75" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-23" value="信号-PC2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="588" y="199" width="69" height="26" as="geometry" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-23" value="信号-PC2（ADC）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="563" y="199" width="119" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-26">
           <mxGeometry relative="1" as="geometry">
