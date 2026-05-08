@@ -4,6 +4,11 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596.7619396391369" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-1" value="Station" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293" y="189" width="192" height="211" as="geometry">
             <mxRectangle x="295" y="186" width="72" height="26" as="alternateBounds" />
@@ -11,6 +16,9 @@
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-3" value="id&lt;div&gt;name&lt;/div&gt;&lt;div&gt;longitude&lt;/div&gt;&lt;div&gt;latitude&lt;/div&gt;&lt;div&gt;data_type&lt;/div&gt;&lt;div&gt;createde_at&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="kNZ81V4yeqCJZzCy2Igm-1">
           <mxGeometry x="54" y="67" width="81" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-6" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="186" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
