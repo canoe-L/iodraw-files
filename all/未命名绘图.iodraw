@@ -19,6 +19,9 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-15" value="UART（TX/RX）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="160" width="110" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="238" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
