@@ -75,11 +75,8 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-30" value="光照传感器" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="196" y="255" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="SCL-PB6（I2C）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="316" y="258" width="111" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-33" value="SDA-PB7（I2C）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="316" y="284" width="112" height="26" as="geometry" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="351" y="258" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
