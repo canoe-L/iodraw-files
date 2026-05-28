@@ -7,11 +7,6 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-11" target="kNZ81V4yeqCJZzCy2Igm-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494" y="335.00000871930797" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-11" value="主控芯片&lt;div&gt;STM32&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="434" y="195" width="120" height="120" as="geometry" />
         </mxCell>
@@ -72,7 +67,7 @@
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-30" target="kNZ81V4yeqCJZzCy2Igm-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-30" value="光照传感器" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-30" value="光照AP3216c" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="196" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
