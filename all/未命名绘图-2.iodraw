@@ -52,7 +52,7 @@
             <mxPoint x="555.0000232514881" y="294.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNZ81V4yeqCJZzCy2Igm-26" value="雨量" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-26" value="雨量LM393" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="680" y="264" width="113" height="61" as="geometry" />
         </mxCell>
         <mxCell id="kNZ81V4yeqCJZzCy2Igm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-30" target="kNZ81V4yeqCJZzCy2Igm-11" edge="1">
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="55bf9eoWnRtpZCUrxiIW-1" value="AO-PA1&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="566" y="286" width="61" height="41" as="geometry" />
+          <mxGeometry x="575" y="294" width="61" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
