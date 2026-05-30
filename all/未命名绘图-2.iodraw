@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1554" dy="847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-11" target="kNZ81V4yeqCJZzCy2Igm-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-11" value="主控芯片&lt;div&gt;STM32&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="434" y="195" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-12" target="kNZ81V4yeqCJZzCy2Igm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-12" value="BC260Y NB-Iot模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="434" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-15" value="UART（TX/RX）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="499" y="153" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="218" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="433" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-16" value="温湿度AHT10" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="196" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-18" value="传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="202" y="155" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-19" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="351" y="192" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="554.6191057477679" y="226.49999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-20" value="风速" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="195" width="113" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-23" value="信号-PC2（ADC）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="563" y="199" width="119" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555.0000232514881" y="294.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-26" value="雨量" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="264" width="113" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-28" value="VCC-3.3V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="579" y="268" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-29" value="GND-GND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="573" y="295" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kNZ81V4yeqCJZzCy2Igm-30" target="kNZ81V4yeqCJZzCy2Igm-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-30" value="光照AP3216c" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="196" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kNZ81V4yeqCJZzCy2Igm-32" value="板载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="351" y="258" width="42" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
